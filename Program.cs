@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+Console.WriteLine("hello");
+
+void GreetWhite() 
+{
+    Console.WriteLine("hello white");
+}
